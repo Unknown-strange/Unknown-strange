@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Edwin
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Fluter
+- 🌱 I program  in python 
+- 💞️ I’m currently studying javascript and will move into learning react and move into mobile app 
 - 📫 How to reach me unknown_strange on Discrd
 
 <!---
