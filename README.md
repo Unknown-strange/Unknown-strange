@@ -111,11 +111,6 @@ I'm interested in working on:
 
 <div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
-
 
 <img src="https://komarev.com/ghpvc/?username=Unknown-strange&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile views" />
 
