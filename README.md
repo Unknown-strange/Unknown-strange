@@ -114,10 +114,8 @@ I'm interested in working on:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Unknown-strange&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)
 
----
+
 
 <img src="https://komarev.com/ghpvc/?username=Unknown-strange&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile views" />
 
