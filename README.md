@@ -53,27 +53,8 @@ const prince = {
 
 </div>
 
----
 
-### 💼 Featured Project
 
-<table>
-<tr>
-<td width="50%">
-
-#### 🛒 Tekmart
-A mobile-first e-commerce platform built with React Native and Django REST Framework.
-
-**Key Features:**
-- 📱 Cross-platform mobile app
-- 🔐 Secure authentication & payments
-- ⚡ Real-time inventory management
-- 🎨 Optimized UX for emerging markets
-
-**Tech:** React Native • TypeScript • Django REST • PostgreSQL
-
-</td>
-<td width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-strange&repo=tekmart&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 
