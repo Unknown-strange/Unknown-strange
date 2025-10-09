@@ -38,7 +38,7 @@ const prince = {
 
 ---
 
-<div align="center">
+<div>
 
 ## 🛠️ Tech Stack
 
@@ -53,10 +53,6 @@ const prince = {
 
 </div>
 
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-strange&repo=tekmart&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 
 </td>
 </tr>
