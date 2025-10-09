@@ -1,14 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Prince%20Nyarko&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Enthusiast&descAlignY=55&descSize=20)
+# Prince Nyarko
+
+### Full Stack Developer | Mobile App Enthusiast
+
+<sub>Building the future, one line at a time</sub>
 
 </div>
 
-<div align="center">
-  
-### 🚀 Currently Building the Future, One Line at a Time
-
-</div>
+---
 
 ## 💫 About Me
 
@@ -82,9 +82,7 @@ const developer = {
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Unknown-strange&icon=6&color=6)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
+![Profile Views](https://visitcount.itsvg.in/api?id=Unknown-strange&icon=6&color=0)
 
 **💭 "The best code is written when passion meets purpose"**
 
