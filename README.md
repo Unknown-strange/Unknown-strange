@@ -1,35 +1,97 @@
 <div align="center">
 
-# Prince Nyarko
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Prince+Nyarko+%F0%9F%91%8B;Full+Stack+Developer;Building+Tekmart+%F0%9F%9A%80;React+Native+%7C+Django+REST+%7C+TypeScript" alt="Typing SVG" />
 
-### Full Stack Developer | Mobile App Enthusiast
+</div>
 
-<sub>Building the future, one line at a time</sub>
+<div align="center">
+  
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Prince%20Nyarko)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/unknownstrangx)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:princenyarkoedwin@gmail.com)
 
 </div>
 
 ---
 
-## 💫 About Me
+### 👨‍💻 About Me
 
-```typescript
-const developer = {
-    name: "Prince Nyarko",
-    currentProject: "Tekmart Mobile App",
-    learning: ["React Native", "Advanced TypeScript"],
-    interests: ["Mobile Development", "Backend Architecture", "Anime"],
-    motto: "Ready to learn and collaborate on anything programming related",
-    status: "Certified Otaku 🎌"
+```javascript
+const prince = {
+    role: "Full Stack Developer",
+    currentProject: "Tekmart - Mobile E-commerce Platform",
+    learning: ["React Native", "TypeScript", "System Architecture"],
+    interests: ["Mobile Development", "Backend APIs", "Anime 🎌"],
+    openToCollaborate: true,
+    funFact: "Certified Otaku who codes with passion ⚡"
 };
 ```
 
+### 🚀 Current Focus
+
+```diff
++ Building scalable mobile applications with React Native
++ Architecting RESTful APIs with Django REST Framework
++ Exploring modern state management patterns
++ Contributing to open-source projects
+```
+
+---
+
 <div align="center">
 
-## 🌐 Let's Connect
+## 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Prince%20Nyarko)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/unknownstrangx)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princenyarkoedwin@gmail.com)
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,typescript,html,css,tailwind" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite" />
+
+### Tools & Platform
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</div>
+
+---
+
+### 💼 Featured Project
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🛒 Tekmart
+A mobile-first e-commerce platform built with React Native and Django REST Framework.
+
+**Key Features:**
+- 📱 Cross-platform mobile app
+- 🔐 Secure authentication & payments
+- ⚡ Real-time inventory management
+- 🎨 Optimized UX for emerging markets
+
+**Tech:** React Native • TypeScript • Django REST • PostgreSQL
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-strange&repo=tekmart&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Unknown-strange&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Unknown-strange&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&border=0d1117" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-strange&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Unknown-strange&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" />
 
 </div>
 
@@ -37,17 +99,11 @@ const developer = {
 
 <div align="center">
 
-## 💻 Tech Arsenal
+### 🤝 Open to Collaboration
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+I'm interested in working on:
 
-### Backend & Tools
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+**Mobile Apps** • **Full-Stack Projects** • **Open Source** • **Technical Writing**
 
 </div>
 
@@ -55,35 +111,16 @@ const developer = {
 
 <div align="center">
 
-## 📊 GitHub Analytics
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Unknown-strange&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Unknown-strange&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866&border_radius=10" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-strange&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact&border_radius=10" alt="Top Languages"/>
-
-</div>
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Unknown-strange&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)
 
 ---
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Unknown-strange&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile views" />
 
-### ✍️ Dev Wisdom
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
-
-### 🏆 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Unknown-strange&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Unknown-strange&icon=6&color=0)
-
-**💭 "The best code is written when passion meets purpose"**
+**💭 "Building the future, one commit at a time"**
 
 </div>
