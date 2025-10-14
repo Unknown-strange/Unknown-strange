@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Prince%20Nyarko)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/Prince%20Nyarko](https://www.linkedin.com/in/prince-nyarko-510077311/))
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/unknownstrangx)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:princenyarkoedwin@gmail.com)
 
