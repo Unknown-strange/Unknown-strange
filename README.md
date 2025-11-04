@@ -41,7 +41,7 @@ const prince = {
 ## 🛠️ Tech Stack
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,vue,typescript,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=,python,javascript,react-native,react,vue,typescript,html,css,tailwind" />
 
 ### Backend & Database
 <img src="https://skillicons.dev/icons?i=python,django,laravel,php,postgres,sqlite" />
