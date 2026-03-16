@@ -67,6 +67,6 @@ I'm interested in working on:
 
 <div align="center">
 
-**💭 "Just Moving Forward"**
+**💭 "Just Keep Moving Forward"**
 
 </div>
