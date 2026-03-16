@@ -67,6 +67,6 @@ I'm interested in working on:
 
 <div align="center">
 
-**💭 "Building the future, one commit at a time"**
+**💭 "Just Moving Forward"**
 
 </div>
